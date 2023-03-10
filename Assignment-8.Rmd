@@ -1,0 +1,39 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 549"
+author: "Emily Bishop <br> ebish@uw.edu"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction 
+
+## About me | Personal
+
+- Massachusetts
+- pumpkin pie, tacos, coffee
+- my cat, sea otters, basically any sea creature
+
+## About me | Academic
+
+- University of Rhode Island
+- Marine Biology
+
+# Data Science
+
+## Course topics | 3 things I enjoyed learning about
+
+1. Advanced use of Github
+2. PostgreSQL
+3. Building packages
+
+## Course topics | 3 things I'd like to learn more about
+
+1. Shiny apps
+2. Resolving merge conflicts
+3. Group work (it would be fun in the future to have us work in teams on some repos to practice collaborative work, branching, and resolving conflicts!)
+
+## {data-background=smokie_onboard.png data-background-size=cover}
